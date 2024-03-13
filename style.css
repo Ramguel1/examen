@@ -1,0 +1,353 @@
+*{
+    margin:10;
+    box-sizing: 20;
+    box-sizing: border-box
+  }
+
+     #cuadro{
+      background: rgb(63, 6, 6);
+       position: absolute;
+       top:600px ;
+       left:100px;
+       width:2800px;
+       height:2500px;
+      border:20px solid black;
+      display: inline-block;
+      border-radius: 0%;
+     }
+     #cuadrado2{
+        background: rgb(238, 182, 77);
+         position: absolute;
+         top:900px ;
+         left:400px;
+         width:500px;
+         height:500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cuadrado3{
+        background: rgb(238, 182, 77);
+         position: absolute;
+         top:900px ;
+         left:2000px;
+         width:500px;
+         height:500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cuadrado4{
+        background: rgb(238, 182, 77);
+         position: absolute;
+         top:2350px ;
+         left:2000px;
+         width:500px;
+         height:500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cuadrado5{
+        background: rgb(238, 182, 77);
+         position: absolute;
+         top:2350px ;
+         left:400px;
+         width:500px;
+         height:500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+
+       #cuadrof2{
+        background: rgb(75, 9, 83);
+         position: absolute;
+         top:4000px ;
+         left:100px;
+         width:2800px;
+         height:2500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cuadradof2{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:5100px ;
+         left:500px;
+         width:500px;
+         height:500px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 100%;
+       }
+       #cuadradof3{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:5090px ;
+         left:500px;
+         width:500px;
+         height:300px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cuadradof4{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:4590px ;
+         left:1000px;
+         width:500px;
+         height:500px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 100%;
+       }
+       #cuadradof5{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:4800px ;
+         left:1000px;
+         width:500px;
+         height:300px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cuadradof6{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:5100px ;
+         left:1500px;
+         width:500px;
+         height:500px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 100%;
+       }
+       #cuadradof7{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:5100px ;
+         left:1500px;
+         width:500px;
+         height:300px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       
+     #cuadrad3{
+        background: rgb(7, 78, 170);
+         position: absolute;
+         top:7000px ;
+         left:100px;
+         width:2800px;
+         height:2500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cuadrad1{
+        background: rgb(0, 24, 245);
+         position: absolute;
+         top:8000px ;
+         left:400px;
+         width:2000px;
+         height:1000px;
+        border:20px solid rgb(0, 24, 245);
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #circ1{
+        background: rgb(7, 78, 170);
+         position: absolute;
+         top:7800px ;
+         left:700px;
+         width:1500px;
+         height:1500px;
+        border:20px solid rgb(7, 78, 170);
+        display: inline-block;
+        border-radius: 100%;
+       }
+       
+       #circ2{
+        background: rgb(0, 24, 245);
+         position: absolute;
+         top:8000px ;
+         left:970px;
+         width:1000px;
+         height:1000px;
+        border:20px solid rgb(0, 24, 245);
+        display: inline-block;
+        border-radius: 100%;
+       }
+
+       #circ3{
+        background: rgb(253, 228, 4);
+         position: absolute;
+         top:8250px ;
+         left:1210px;
+         width:500px;
+         height:500px;
+        border:20px solid rgb(253, 228, 4);
+        display: inline-block;
+        border-radius: 100%;
+       }
+
+
+
+
+
+       #cuadro5{
+        background: rgb(29, 86, 179);
+         position: absolute;
+         top:10000px ;
+         left:100px;
+         width:2800px;
+         height:2500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #sol3{
+        background:rgb(251, 226, 0);
+        position:relative;
+        top: 10000px; 
+        left:1000px;
+        width:200px;
+        height:200px;
+        rotate: 70deg;
+       border:2px solid rgb(243, 2, 2);
+       display: inline-block;
+       border-radius: 0%;
+     }
+     #cua1{
+        background:rgb(8, 10, 126);
+        position:relative;
+        top: 10500px; 
+        left:500px;
+        width:1600px;
+        height:1600px;
+        rotate: 00deg;
+       border:2px solid rgb(8, 10, 126);
+       display: inline-block;
+       border-radius: 0%;
+     }
+
+     #cua2{
+        background:rgb(29, 86, 179);
+        position:relative;
+        top: 10190px; 
+        left:-800px;
+        width:1000px;
+        height:1000px;
+        rotate: 70deg;
+       border:2px solid rgb(29, 86, 179);
+       display: inline-block;
+       border-radius: 0%;
+     }
+
+     #cua3{
+        background:rgb(8, 10, 126);
+        position:absolute;
+        top: 11090px; 
+        left:1090px;
+        width:400px;
+        height:400px;
+        rotate: 120deg;
+       border:2px solid rgb(8, 10, 126);
+       display: inline-block;
+       border-radius: 0%;
+     }
+
+     #cuadro6{
+        background: rgb(11, 36, 75);
+         position: absolute;
+         top:13000px ;
+         left:100px;
+         width:2800px;
+         height:2500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cua11{
+        background: rgb(224, 202, 187);
+         position: absolute;
+         top:13000px ;
+         left:100px;
+         width:1500px;
+         height:1500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cua22{
+        background: rgb(230, 52, 52);
+         position: absolute;
+         top:13000px ;
+         left:1500px;
+         width:900px;
+         height:1500px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+       #cua33{
+        background: rgb(102, 8, 8);
+         position: absolute;
+         top:14300px ;
+         left:1500px;
+         width:900px;
+         height:200px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cua44{
+        background: rgb(230, 52, 52);
+         position: absolute;
+         top:14500px ;
+         left:90px;
+         width:1300px;
+         height:900px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+       #cua55{
+        background: rgb(102, 8, 8);
+         position: absolute;
+         top:14500px ;
+         left:1300px;
+         width:200px;
+         height:900px;
+        border:20px solid black;
+        display: inline-block;
+        border-radius: 0%;
+       }
+
+
+
+
+
+
+
+
+
+
+
+
+
